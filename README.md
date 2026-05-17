@@ -11,4 +11,3 @@ Files Included
 - Main.java
 - BankAccount.java
 - Customer.java
-- banking_system.sql
